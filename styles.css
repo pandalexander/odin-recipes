@@ -1,3 +1,11 @@
+body {
+    font-family: 'EB Garamond', sans-serif
+}
+
 h1 {
-    color: green;
+    text-align: center;
+}
+
+.food-div {
+    text-align: center;
 }
