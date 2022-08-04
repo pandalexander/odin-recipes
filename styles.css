@@ -15,5 +15,6 @@ h1 {
 }
 
 .food-pic {
-    border-radius: 50px
+    border-radius: 50px;
+    box-shadow: 5px 10px #6F553450;
 }
