@@ -18,3 +18,8 @@ h1 {
     border-radius: 50px;
     box-shadow: 5px 10px #6F553450;
 }
+
+h2 {
+    color: #566D56;
+    text-align: center;
+}
