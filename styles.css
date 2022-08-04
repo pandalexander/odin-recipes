@@ -9,3 +9,7 @@ h1 {
 .food-div {
     text-align: center;
 }
+
+.food-pic {
+    border-radius: 50px
+}
